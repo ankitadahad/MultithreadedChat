@@ -1,5 +1,7 @@
-Name : Single Chat Room Application 
+Name : Click Chat 
+Simple Multithreaded Chatting application (Server and Clinet)
 ---------------------------------------------------------------------------------------------------------------------
+
 Modules :
 
 1. MultiThreaded Chat Server

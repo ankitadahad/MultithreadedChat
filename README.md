@@ -1,11 +1,14 @@
 Name : Single Chat Room Application 
 ---------------------------------------------------------------------------------------------------------------------
 Modules :
+
 1. MultiThreaded Chat Server
 2. Chat Client
+
 ---------------------------------------------------------------------------------------------------------------------
 Programming Language : Java
 ---------------------------------------------------------------------------------------------------------------------
+
 Insturctions to Run Server :
 1. Setup Java environment variables for java and build and compile the project from command prompt.
 2. Use javac <filename>.java command to compile the server, MultiThreadChatServer.java
@@ -13,6 +16,7 @@ Insturctions to Run Server :
 	 java <filename> <portnumber>
 4. You can see the message : MultiThreadedChatServer Initialized
    Thus, server is up and ready.
+
 --------------------------------------------------------------------------------------------------------------------
 Instructions to Run Client :
 1. Use javac<filename>.java command to compile the client, ChatClient.java
@@ -29,8 +33,11 @@ Instructions to Run Client :
 
 You can run 2 or more instances of client to see the chatting between clients.
 --------------------------------------------------------------------------------------------------------------------
+
 Features
+
 How it works: 
+
 1. Once 2 or more instances of client are running, type "Hello" in console of client1
 	You can see the output as "Username1 :  Hello    At <timestamp>" 
 	in console windows of both the clients.

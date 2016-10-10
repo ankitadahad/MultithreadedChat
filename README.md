@@ -1,7 +1,7 @@
 
 #Name : Click Chat 
 ---------------------------------------------------------------------------------------------------------------------
- Simple Multithreaded Chatting application (Server and Clinet)
+ Simple Multithreaded Chatting application (Server and Client). Fully written in Java
 
 
 ##Modules :
@@ -9,9 +9,6 @@
 
 1. MultiThreaded Chat Server
 2. Chat Client
-
----------------------------------------------------------------------------------------------------------------------
-##Programming Language : Java
 ---------------------------------------------------------------------------------------------------------------------
 
 ###Insturctions to Run Server :

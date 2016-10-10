@@ -1,7 +1,7 @@
 
 #Name : Click Chat 
 ---------------------------------------------------------------------------------------------------------------------
- Simple Multithreaded Chatting application (Server and Client). Fully written in Java
+ Simple Multithreaded Chatting application (Server and Client) written in Java
 
 
 ##Modules :

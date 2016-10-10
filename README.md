@@ -1,17 +1,20 @@
-Name : Click Chat 
-Simple Multithreaded Chatting application (Server and Clinet)
----------------------------------------------------------------------------------------------------------------------
 
-Modules :
+#Name : Click Chat 
+---------------------------------------------------------------------------------------------------------------------
+ Simple Multithreaded Chatting application (Server and Clinet)
+
+
+##Modules :
+---------------------------------------------------------------------------------------------------------------------
 
 1. MultiThreaded Chat Server
 2. Chat Client
 
 ---------------------------------------------------------------------------------------------------------------------
-Programming Language : Java
+##Programming Language : Java
 ---------------------------------------------------------------------------------------------------------------------
 
-Insturctions to Run Server :
+###Insturctions to Run Server :
 1. Setup Java environment variables for java and build and compile the project from command prompt.
 2. Use javac <filename>.java command to compile the server, MultiThreadChatServer.java
 3. Run the java file and provide port number that server listens on.
@@ -20,7 +23,7 @@ Insturctions to Run Server :
    Thus, server is up and ready.
 
 --------------------------------------------------------------------------------------------------------------------
-Instructions to Run Client :
+###Instructions to Run Client :
 1. Use javac<filename>.java command to compile the client, ChatClient.java
 2. Run the java file 
 	java <filename> 
@@ -36,9 +39,9 @@ Instructions to Run Client :
 You can run 2 or more instances of client to see the chatting between clients.
 --------------------------------------------------------------------------------------------------------------------
 
-Features
+##Features
 
-How it works: 
+###How it works: 
 
 1. Once 2 or more instances of client are running, type "Hello" in console of client1
 	You can see the output as "Username1 :  Hello    At <timestamp>" 

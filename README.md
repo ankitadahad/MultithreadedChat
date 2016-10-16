@@ -9,7 +9,7 @@
 2. Chat Client
 ---------------------------------------------------------------------------------------------------------------------
 
-###Insturctions to Run Server :
+###Insturctions to Run Chat Server :
 1. Setup Java environment variables for java and build and compile the project from command prompt.
 2. Use javac <filename>.java command to compile the server, MultiThreadChatServer.java
 3. Run the java file and provide port number that server listens on.
@@ -18,7 +18,7 @@
    Thus, server is up and ready.
 
 --------------------------------------------------------------------------------------------------------------------
-###Instructions to Run Client :
+###Instructions to Run Chat Client :
 1. Use javac<filename>.java command to compile the client, ChatClient.java
 2. Run the java file 
 	java <filename> 
